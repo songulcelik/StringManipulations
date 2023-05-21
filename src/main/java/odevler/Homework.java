@@ -1,3 +1,5 @@
+package odevler;
+
 import java.util.Scanner;
 
 public class Homework {
